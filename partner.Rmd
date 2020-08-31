@@ -1,0 +1,7 @@
+---
+title: "partner"
+author: "Jack Langenwalter"
+GitHub username:"JaBoiJack"
+Commit ID: "3a67f4b270995e6a41e399672b6bb9bff0ea4a3f"
+Last Commit: "Created hw1 file"
+After Knitting: "Saw no errors with hw1.Rmd after knitting"
